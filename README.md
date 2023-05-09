@@ -5,6 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5u623l20&langs_count=10&layout=compact&theme=nord)
 
 
+![Moin's GitHub stats](https://github-readme-stats-one-xi-90.vercel.app/api?username=5u623l20&count_private=true&show_icons=true&theme=nord)
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
