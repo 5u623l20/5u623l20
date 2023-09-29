@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Moin's GitHub stats](https://github-readme-stats-rust-one-38.vercel.app/api?username=5u623l20&count_private=true&show_icons=true&theme=nord)
+![Moin's GitHub stats](https://github-readme-stats-rust-one-38.vercel.app/api?username=5u623l20&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
 
 ![Top Langs](https://github-readme-stats-rust-one-38.vercel.app/api/top-langs/?username=5u623l20&langs_count=10&layout=compact&theme=nord)
 
