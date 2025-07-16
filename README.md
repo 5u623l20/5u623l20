@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ![Moin's GitHub stats](https://github-readme-stats-rust-one-38.vercel.app/api?username=5u623l20&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
+![Moin's GitHub stats](https://github-readme-stats-two-ashen-98.vercel.app/api?username=5u623l20&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats-rust-one-38.vercel.app/api/top-langs/?username=5u623l20&langs_count=10&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-two-ashen-98.vercel.app/api/top-langs/?username=5u623l20&langs_count=10&layout=compact&theme=nord)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=5u623l20&theme=nord&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](http://github-readme-stats-two-ashen-98.vercel.app/?username=5u623l20&theme=nord&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
